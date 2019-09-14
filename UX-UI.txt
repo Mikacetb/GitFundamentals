@@ -1,0 +1,52 @@
+﻿1. Le statut du système doit être visible :
+Une animation se produit lorsque j’interragis avec le site.
+
+
+
+2. Le système doit correspondre au monde réel :
+
+Le panier correspond à un élément que l’utilisateur connaît dans le monde réel.
+
+
+3. Contrôle de l’utilisateur et liberté :
+
+L’interface ne demande pas confirmation à l’utilisateur avant de valider sa commande.
+
+
+
+
+4. Le système doit être cohérent avec les standards :
+
+Un menu burger familier est visible dans le coin supérieur droit de la page (cf photo ci-dessus)
+
+
+5. Prévention des faux-pas et des erreurs :
+
+Des indications sont présentes pour guider l’utilisateur par exemple pour les champs « Numéro de téléphone » ou « Instructions pour le livreur ».
+
+
+6. Reconnaître plutôt que se souvenir :
+
+Le menu principal, le lien vers la page d’accueil et le panier sont accessible depuis toutes les pages (cf photos ci-dessus.
+
+
+7- Flexibilité et efficacité d’usage :
+
+
+A gauche une liste de rubriques pour l’utilisateur novice ou n’ayant pas d’idée précise de ce qu’il souhaite, à droite des filtres pour gagner du temps dans la navigation.
+
+
+8. Esthétique et minimalisme :
+
+Code couleur cohérent et bonne lisibilité du site (cf photo ci-dessus).
+
+
+9. Aide à la reconnaissance, au diagnostic et à la réparation des erreurs :
+
+Un point d’exclamation rouge apparaît si on oublie de renseigner son numéro de téléphone afin d’attirer l’attention de l’utilisateur sur le champs concerné.
+
+
+10. Aide et documentation :
+
+
+Une rubrique d’aide est présente en bas de page.
